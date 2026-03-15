@@ -1,11 +1,15 @@
+
+
+
+
 using SportsStore.Domain.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 var app = builder.Build();
 
-app.UseMiddleware<SportsStoreWebApp.Middleware.RequestLoggerMiddleware>();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -15,14 +19,17 @@ if (!app.Environment.IsDevelopment())
 }
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
 app.UseRouting();
+
 app.UseAuthorization();
+
 app.MapStaticAssets();
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
-
 Console.WriteLine("---Thuc hanh C# co ban---");
 
 List<Product> sampleProducts = new List<Product>
@@ -40,7 +47,7 @@ foreach (var p in expensiveProducts)
     Console.WriteLine($"- {p.Name} ({p.Price:C})");
 }
 Console.WriteLine("\n--- LINQ: Lấy sản phẩm đầu tiên thuộc danh mục 'Bóng đá' ---");
-var firstFootballProduct = sampleProducts.FirstOrDefault(p => p.Category == "Bóng đá");
+var firstFootballProduct = sampleProducts.FirstOrDefault(p => p.Category == "Bóngđá");
 if (firstFootballProduct != null)
 {
     Console.WriteLine($"- {firstFootballProduct.Name}");
@@ -60,7 +67,6 @@ async Task SimulateDataFetchAsync()
 await SimulateDataFetchAsync(); // Cần `await` ở đây vì hàm Main của .NET 6+ đãlà async
 Console.WriteLine("--- Kết thúc thực hành C# cơ bản ---\n");
 // --- Kết thúc phần thực hành C# cơ bản ---
-
 
 
 

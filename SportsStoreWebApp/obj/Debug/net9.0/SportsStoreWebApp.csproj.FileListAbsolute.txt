@@ -21,7 +21,6 @@ E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.source
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\scopedcss\bundle\SportsStoreWebApp.styles.css
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\scopedcss\projectbundle\SportsStoreWebApp.bundle.scp.css
-E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\idg1l5f9w6-b9sayid5wm.gz
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\37g4pampbi-61n19gt1b8.gz
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\iwspfsv9tc-xtxxf3hu2r.gz
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\7waqr7dver-bqjiyaj88i.gz
@@ -100,4 +99,4 @@ E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\refint\SportsStoreWebApp
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.pdb
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.genruntimeconfig.cache
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\ref\SportsStoreWebApp.dll
-E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\1gpu6onsot-lr004gw3wo.gz
+E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\idg1l5f9w6-qatqidiyuu.gz
