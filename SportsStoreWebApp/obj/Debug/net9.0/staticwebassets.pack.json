@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\css\\sitr.css",
+      "PackagePath": "staticwebassets\\css\\sitr.css"
+    },
+    {
       "Id": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

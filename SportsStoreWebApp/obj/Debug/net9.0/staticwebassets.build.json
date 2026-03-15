@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ru5rIV5vG6kPx9uKHt9azSNP0KquJ9Ery30m29VAE6Y=",
+  "Hash": "CPJZHNALOVmNqtNTtKV1DzsQufetZ9zvHcXkCZn2op0=",
   "Source": "SportsStoreWebApp",
   "BasePath": "_content/SportsStoreWebApp",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\1gpu6onsot-lr004gw3wo.gz",
+      "SourceId": "SportsStoreWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SportsStoreWebApp",
+      "RelativePath": "css/sitr#[.{fingerprint=lr004gw3wo}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\css\\sitr.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b3gfo9pbtd",
+      "Integrity": "ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\css\\sitr.css"
     },
     {
       "Identity": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\37g4pampbi-61n19gt1b8.gz",
@@ -1422,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\css\\sitr.css",
+      "SourceId": "SportsStoreWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\",
+      "BasePath": "_content/SportsStoreWebApp",
+      "RelativePath": "css/sitr#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lr004gw3wo",
+      "Integrity": "4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sitr.css"
     },
     {
       "Identity": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\favicon.ico",
@@ -3022,6 +3064,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.css",
+      "AssetFile": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\1gpu6onsot-lr004gw3wo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003745318352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.css",
+      "AssetFile": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\css\\sitr.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.css.gz",
+      "AssetFile": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\1gpu6onsot-lr004gw3wo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.lr004gw3wo.css",
+      "AssetFile": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\1gpu6onsot-lr004gw3wo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003745318352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr004gw3wo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sitr.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.lr004gw3wo.css",
+      "AssetFile": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\wwwroot\\css\\sitr.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr004gw3wo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sitr.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.lr004gw3wo.css.gz",
+      "AssetFile": "E:\\SportsStoreWebApp\\SportsStoreWebApp\\obj\\Debug\\net9.0\\compressed\\1gpu6onsot-lr004gw3wo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr004gw3wo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sitr.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU="
         }
       ]
     },
@@ -21310,7 +21650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21363,7 +21703,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21400,7 +21740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21447,7 +21787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21500,7 +21840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21537,7 +21877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21584,7 +21924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21645,7 +21985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21690,7 +22030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21745,7 +22085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21806,7 +22146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21851,7 +22191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Cache-Control",

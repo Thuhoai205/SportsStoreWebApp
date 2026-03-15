@@ -43,7 +43,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -84,7 +84,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         }
       ],
       "EndpointProperties": [
@@ -125,7 +125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -180,7 +180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -229,7 +229,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         }
       ],
       "EndpointProperties": [
@@ -278,7 +278,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Mar 2026 06:19:53 GMT"
+          "Value": "Sun, 15 Mar 2026 07:29:01 GMT"
         },
         {
           "Name": "Vary",
@@ -595,6 +595,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.css",
+      "AssetFile": "css/sitr.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003745318352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.css",
+      "AssetFile": "css/sitr.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.css.gz",
+      "AssetFile": "css/sitr.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU="
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.lr004gw3wo.css",
+      "AssetFile": "css/sitr.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003745318352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr004gw3wo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        },
+        {
+          "Name": "label",
+          "Value": "css/sitr.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.lr004gw3wo.css",
+      "AssetFile": "css/sitr.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr004gw3wo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YdNpvz7qLNcinz3vzmCfESjZGpyVtfrG4xtBa0iZvE="
+        },
+        {
+          "Name": "label",
+          "Value": "css/sitr.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/sitr.lr004gw3wo.css.gz",
+      "AssetFile": "css/sitr.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Mar 2026 07:43:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr004gw3wo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydSnVaUx/iSlXpqCW/PdWVJgAC8a2owzbaG5QV86gaU="
+        },
+        {
+          "Name": "label",
+          "Value": "css/sitr.css.gz"
         }
       ]
     },

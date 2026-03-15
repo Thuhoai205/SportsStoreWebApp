@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "SportsStore.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SportsStore.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SportsStore.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SportsStore.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SportsStore.Domain/SportsStore.Domain.csproj",
+      "msbuildProject": "../SportsStore.Domain/SportsStore.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "SportsStore.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\THU HOAI\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\SportsStoreWebApp\\SportsStore.Domain\\SportsStore.Domain.csproj": {
+              "projectPath": "E:\\SportsStoreWebApp\\SportsStore.Domain\\SportsStore.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

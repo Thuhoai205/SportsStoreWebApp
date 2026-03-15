@@ -7,6 +7,9 @@ E:\SportsStoreWebApp\SportsStoreWebApp\bin\Debug\net9.0\SportsStoreWebApp.deps.j
 E:\SportsStoreWebApp\SportsStoreWebApp\bin\Debug\net9.0\SportsStoreWebApp.runtimeconfig.json
 E:\SportsStoreWebApp\SportsStoreWebApp\bin\Debug\net9.0\SportsStoreWebApp.dll
 E:\SportsStoreWebApp\SportsStoreWebApp\bin\Debug\net9.0\SportsStoreWebApp.pdb
+E:\SportsStoreWebApp\SportsStoreWebApp\bin\Debug\net9.0\SportsStore.Domain.dll
+E:\SportsStoreWebApp\SportsStoreWebApp\bin\Debug\net9.0\SportsStore.Domain.pdb
+E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.csproj.AssemblyReference.cache
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.AssemblyInfoInputs.cache
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.AssemblyInfo.cs
@@ -91,8 +94,10 @@ E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\staticwebassets\msbuild.
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsStoreWebApp.props
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsStoreWebApp.props
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\staticwebassets.pack.json
+E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsSt.2BDFEC41.Up2Date
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.dll
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\refint\SportsStoreWebApp.dll
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.pdb
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\SportsStoreWebApp.genruntimeconfig.cache
 E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\ref\SportsStoreWebApp.dll
+E:\SportsStoreWebApp\SportsStoreWebApp\obj\Debug\net9.0\compressed\1gpu6onsot-lr004gw3wo.gz
